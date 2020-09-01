@@ -15,7 +15,7 @@ const Navbar = () => {
                 
                 <UlList>
                     <ListItem><Link className='anchor' to="/">Home</Link></ListItem>
-                    <ListItem><Anchor href="#">Work</Anchor></ListItem>
+                    <ListItem><Anchor  href="/work">Work</Anchor></ListItem>
                     <ListItem><Anchor href="#">Portfolio</Anchor></ListItem>
                     <ListItem><Anchor href="#">Resume</Anchor></ListItem>
                     <ListItem><Anchor href="#">About</Anchor></ListItem>

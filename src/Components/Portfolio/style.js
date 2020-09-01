@@ -25,7 +25,7 @@ export const PortfolioItem = styled.li`
     display: inline-block;
     width: 100px;
     padding: 10px;
-    background: ${props => props.active ? '#eb5424' : ''}
+    background: ${props => props.active ? '#eb5424' : ''};
     color: ${props => props.active ? '#fff' : '#000'}
 `
 
